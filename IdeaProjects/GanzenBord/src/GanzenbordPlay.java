@@ -4,6 +4,7 @@ import javax.swing.*;
 
 /**
  * Created by udr013 on 18-1-2016.
+ * game rules
  */
 
 public class GanzenbordPlay {

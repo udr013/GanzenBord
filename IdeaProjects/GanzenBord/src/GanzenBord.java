@@ -8,6 +8,7 @@ import java.util.Scanner;
 
 /**
  * Created by udr013 on 3-1-2016.
+ * run from here
  */
 public class GanzenBord extends GanzenbordPlay {
 

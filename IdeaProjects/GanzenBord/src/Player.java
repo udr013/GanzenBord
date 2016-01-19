@@ -4,6 +4,7 @@ import javax.swing.*;
 
 /**
  * Created by udr013 on 3-1-2016.
+ * Player methods
  */
 public class Player extends GanzenbordPlay {
 
